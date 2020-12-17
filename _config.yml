@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Genta Indra Winata"
+title                    : "SU Dan"
 title_separator          : "-"
-name                     : &name "Genta Indra Winata"
+name                     : &name "SU Dan"
 description              : &description "personal description"
-# url                      : https://gentaiscool.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : https://gentawinata.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://Iamfinethanksu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gentaiscool/gentaiscool.github.io"
+repository               : "Iamfinethanksu/Iamfinethanksu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Genta Indra Winata"
-  avatar           : "profile.jpg"
+  name             : "SU Dan"
+  avatar           : "sudan_profile.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Hong Kong"
   employer         : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=7QxkToIAAAAJ&hl=en"
-  email            : "giwinata@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=nxnM758AAAAJ&hl=en"
+  email            : "dsu@connect.ust.hk"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gentaiscool"
+  github           : "Iamfinethanksu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "gentaiscool"
+  linkedin         : ""
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "gentaiscool"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
